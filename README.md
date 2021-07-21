@@ -1,7 +1,7 @@
 # <Document Name>
 Public CD of <Document Name>
 
-[GitHub issues](https://github.com/SMPTE/st2067-60/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to xxxx-chair@smpte.org.
+[GitHub issues](https://github.com/SMPTE/PCD-Repository-Template/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to xxxx-chair@smpte.org.
 
 This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
 
