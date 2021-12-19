@@ -1,11 +1,22 @@
-# <Project title from AG-06>
+# {Project or document title}
 
-This document is made available for a public review period ending no earlier than `<YYYY-MM-DD>`, and no later than `<YYYY-MM-DD>`.
-  
-Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
+## General
 
-## Project details
+_This repository is *public*._
 
-&lt;description from AG-06 and other useful information&gt;
+Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and
+[PATENTS.md](./PATENTS.md) for important notices.
 
-&lt;See AG-22, Annex D for additional requirements specific to Public Committee Drafts.&gt;
+Your feedback is welcome at _link to GitHub issue tracker_ or at _TC chair email address_.
+
+## Public Committee Draft (PCD) Notice
+
+The following elements are made available for a public review period ending no earlier than {YYYY-MM-DD}, and no later than {YYYY-MM-DD}:
+
+* [{prose element}]({link to prose element})
+* [{element #1}]({link to element #1})
+* ...
+
+## Details
+
+{PCD announcement}
